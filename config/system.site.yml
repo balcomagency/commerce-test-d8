@@ -1,0 +1,14 @@
+uuid: 3698f9e7-75c8-458c-84f8-1e797ce07a16
+name: commerce-test-d8
+mail: ryan.amarit@balcomagency.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
